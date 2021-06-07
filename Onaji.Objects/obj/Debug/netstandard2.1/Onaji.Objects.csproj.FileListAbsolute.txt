@@ -1,0 +1,9 @@
+D:\git\OnajiSync\Onaji.Objects\bin\Debug\netstandard2.1\Onaji.Objects.deps.json
+D:\git\OnajiSync\Onaji.Objects\bin\Debug\netstandard2.1\Onaji.Objects.dll
+D:\git\OnajiSync\Onaji.Objects\bin\Debug\netstandard2.1\Onaji.Objects.pdb
+D:\git\OnajiSync\Onaji.Objects\obj\Debug\netstandard2.1\Onaji.Objects.csprojAssemblyReference.cache
+D:\git\OnajiSync\Onaji.Objects\obj\Debug\netstandard2.1\Onaji.Objects.AssemblyInfoInputs.cache
+D:\git\OnajiSync\Onaji.Objects\obj\Debug\netstandard2.1\Onaji.Objects.AssemblyInfo.cs
+D:\git\OnajiSync\Onaji.Objects\obj\Debug\netstandard2.1\Onaji.Objects.csproj.CoreCompileInputs.cache
+D:\git\OnajiSync\Onaji.Objects\obj\Debug\netstandard2.1\Onaji.Objects.dll
+D:\git\OnajiSync\Onaji.Objects\obj\Debug\netstandard2.1\Onaji.Objects.pdb

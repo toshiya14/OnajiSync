@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NZBwoX/AjDqNP9vR6LRWvSgyy39Q7gT8l2/LTddbw6MKcX+3TUR2TgCZkzgZ+XAL+zsIUSJAfZ4tAir6HXCmbg==",
+  "success": true,
+  "projectFilePath": "D:\\git\\OnajiSync\\OnajiDelivery\\OnajiDelivery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v-zhica\\.nuget\\packages\\awesomesockets\\2.1.18\\awesomesockets.2.1.18.nupkg.sha512",
+    "C:\\Users\\v-zhica\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\v-zhica\\.nuget\\packages\\simplebase\\3.0.2\\simplebase.3.0.2.nupkg.sha512",
+    "C:\\Users\\v-zhica\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

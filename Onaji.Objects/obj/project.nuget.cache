@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ckvhx7YxGIubsOykUmG2ZrVoxlcmth8XlfeUKfOiqmxqwnOwg4EkEncVwHf58L4GU4utET1Z3XJ9S2NyZ+Lgkg==",
+  "success": true,
+  "projectFilePath": "D:\\git\\OnajiSync\\Onaji.Objects\\Onaji.Objects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v-zhica\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\v-zhica\\.nuget\\packages\\simplebase\\3.0.2\\simplebase.3.0.2.nupkg.sha512",
+    "C:\\Users\\v-zhica\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\v-zhica\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\v-zhica\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\v-zhica\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

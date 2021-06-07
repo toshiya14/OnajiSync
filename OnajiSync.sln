@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnajiDelivery", "OnajiDelivery\OnajiDelivery.csproj", "{4769C03F-F081-4E35-BFD7-24D89EF9E665}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Onaji.Objects", "Onaji.Objects\Onaji.Objects.csproj", "{D3608F5A-7D4E-4D56-AD4D-CF1589EB3D9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4769C03F-F081-4E35-BFD7-24D89EF9E665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4769C03F-F081-4E35-BFD7-24D89EF9E665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4769C03F-F081-4E35-BFD7-24D89EF9E665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4769C03F-F081-4E35-BFD7-24D89EF9E665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3608F5A-7D4E-4D56-AD4D-CF1589EB3D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3608F5A-7D4E-4D56-AD4D-CF1589EB3D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3608F5A-7D4E-4D56-AD4D-CF1589EB3D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3608F5A-7D4E-4D56-AD4D-CF1589EB3D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {638540D7-DB4E-4C2F-8AB2-6336277B8C3C}
+	EndGlobalSection
+EndGlobal
